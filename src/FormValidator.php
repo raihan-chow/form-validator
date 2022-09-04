@@ -5,10 +5,6 @@ declare(strict_types=1);
 namespace Raihan\FormValidator;
 
 use Exception;
-use Egulias\EmailValidator\EmailLexer;
-use Egulias\EmailValidator\Warning\Warning;
-use Egulias\EmailValidator\Exception\InvalidEmail;
-use Egulias\EmailValidator\Validation\EmailValidation;
 
 
 class FormValidator
